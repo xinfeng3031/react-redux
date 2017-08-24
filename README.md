@@ -3,7 +3,7 @@
  yarn install<br>
  yarn start
  
- ### resourece:
+ ### resoure:
  * ES6: http://es6.ruanyifeng.com/
  * UI: https://ant.design/components/table/
  * Mocha:http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html
