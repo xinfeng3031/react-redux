@@ -1,13 +1,7 @@
  # Redux Counter Example
   
- yarn install
  yarn install<br>
  yarn start
- 
- 
- ### install dependence error:
- * url: https://github.com/mdevils/node-html-entities/edit/master/lib/html5-entities.js  
- 
  
  ### resourece:
  * ES6: http://es6.ruanyifeng.com/
